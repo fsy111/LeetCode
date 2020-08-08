@@ -93,8 +93,8 @@
        - Find Winner on a Tic Tac Toe Game Q-1275
 
 ## 11. Search
-       - [Longest Increasing Path in a Matrix Q-329](leetcode.com/problems/Longest-Increasing-Path-in-a-Matrix/)
-       - [Out of Boundary Paths Q-576](leetcode.com/problems/out-of-boundary-paths/)
+       - [Longest Increasing Path in a Matrix Q-329](https://leetcode.com/problems/Longest-Increasing-Path-in-a-Matrix/)
+       - [Out of Boundary Paths Q-576](http://leetcode.com/problems/out-of-boundary-paths/)
        - [Google](www.google.com/)
        - Try again
        - Try stage
