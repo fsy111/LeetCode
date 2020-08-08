@@ -13,8 +13,8 @@
 11. Search
 
 ## 1. Linear DP
-      - The Longest Increasing Subsequence (LIS) Q-300
-      - The Longest Common Subsequence (LCS) Q-1143
+- The Longest Increasing Subsequence (LIS) Q-300
+- The Longest Common Subsequence (LCS) Q-1143
       - Triangle Q-120
       - Maximum subarray Q-53
       - Maximum Product Subarray Q-152
