@@ -28,7 +28,7 @@
       - Best Time to Buy and Sell Stock IV Q-188
       - Best Time to Buy and Sell Stock with Cooldown Q-309
       - Best Time to Buy and Sell Stock with Transaction Fee Q-714
-      ### String Matching
+### String Matching
       - Edit Distance Q-72 HARD
       - Wildcard Matching Q-44 HARD
       - Regular Expression Matching Q-10 HARD
