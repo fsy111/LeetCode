@@ -96,9 +96,5 @@
        - [Longest Increasing Path in a Matrix Q-329](https://leetcode.com/problems/Longest-Increasing-Path-in-a-Matrix/)
        - [Out of Boundary Paths Q-576](http://leetcode.com/problems/out-of-boundary-paths/)
        - [Google](www.google.com/)
-       - Try again
-       - Try stage
-       - jklj
-       [jlkjk](https://www.google.com/)
 
 I get 10 times more traffic from [Google](https://www.google.com/).
