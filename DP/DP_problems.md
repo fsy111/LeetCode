@@ -93,14 +93,8 @@
        - Find Winner on a Tic Tac Toe Game Q-1275
 
 ## 11. Search
-       - [Longest Increasing Path in a Matrix Q-329](leetcode.com/problems/Longest-Increasing-Path-in-a-Matrix/)
-       - [Out of Boundary Paths Q-576](leetcode.com/problems/out-of-boundary-paths/)
+       - [Longest Increasing Path in a Matrix Q-329](https://leetcode.com/problems/Longest-Increasing-Path-in-a-Matrix/)
+       - [Out of Boundary Paths Q-576](http://leetcode.com/problems/out-of-boundary-paths/)
        - [Google](www.google.com/)
-       - Try again
-       - Try stage
 
-I get 10 times more traffic from [Google] [1] than from [Yahoo] [2] or [MSN] [3].
-
-    [1]: http://google.com/        "Google"
-    [2]: http://search.yahoo.com/  "Yahoo Search"
-    [3]: http://search.msn.com/    "MSN Search"
+I get 10 times more traffic from [Google](https://www.google.com/).
