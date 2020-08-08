@@ -1,16 +1,16 @@
 # DP Problems
 
-1. Linear DP
-2. Intervals
-3. Backpack (Decision Making)
-4. Trees
-5. State compression
-6. Digits
-7. Counting
-8. Recursion
-9. Probability
-10. Games
-11. Search
+1. [Linear DP](#1-linear-dp)
+2. [Intervals](#2-intervals)
+3. [Backpack (Decision Making)](#3-backpack)
+4. [Trees](#4-trees)
+5. [State compression](#5-state-compression)
+6. [Digits](#6-digits)
+7. [Counting](#7-counting)
+8. [Recursion](#8-recursion)
+9. [Probability](#9-probability)
+10. [Games](#10-games)
+11. [Search](#11-search)
 
 ## 1. Linear DP
    - [The Longest Increasing Subsequence (LIS) Q-300](https://leetcode.com/problems/longest-increasing-subsequence)
