@@ -5,7 +5,7 @@ Given an array of integers, return indices of the two numbers such that they add
 
 You may assume that each input would have **_exactly_** one solution, and you may not use the same element twice.
 
-# Example:
+### Example:
 Given `nums = [2, 7, 11, 15]`, `target = 9`,
 
 Because `nums[0] + nums[1] = 2 + 7 = 9`,
@@ -16,7 +16,8 @@ We use hash table to reduce the look up time from O(n) to O(1) by trading space 
 
 ## Complexity Analysis:
 
-Time complexity: O(n).
+Time complexity: O(n)
+.
 - We traverse the list containing n elements only once.
 Each look up in the table costs only O(1) time.
 
