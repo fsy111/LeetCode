@@ -14,5 +14,5 @@
 * [Q61_Rotate List](/Problems/RotateList-61.ipynb)
 * [Q138_Copy List with Random Pointer](/Problems/CopyListRandom-138.ipynb) Linked list, Deep copy, Copy extra information of nodes
 
-### Double Pointer & Sliding Windows
+### Double Pointer & Sliding Window
 * [Q3_Longest Substring Without Repeating Characters](/Problems/SubstringNoRepeat-3.ipynb)
