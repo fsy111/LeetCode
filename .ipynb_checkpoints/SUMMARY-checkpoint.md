@@ -13,3 +13,6 @@
 * [Q25_Reverse Nodes in k-Group](/Problems/RevNodes-k-Group-25.ipynb) Reverse linked list
 * [Q61_Rotate List](/Problems/RotateList-61.ipynb)
 * [Q138_Copy List with Random Pointer](/Problems/CopyListRandom-138.ipynb) Linked list, Deep copy, Copy extra information of nodes
+
+### Double Pointer & Sliding Windows
+* [Q3_Longest Substring Without Repeating Characters](/Problems/SubstringNoRepeat-3.ipynb)
