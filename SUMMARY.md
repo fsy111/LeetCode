@@ -15,5 +15,5 @@
 * [Q138_Copy List with Random Pointer](/Problems/CopyListRandom-138.ipynb) Linked list, Deep copy, Copy extra information of nodes
 
 ### Double Pointer & Sliding Window
-* [Q3_Longest Substring Without Repeating Characters](/Problems/SubstringNoRepeat-3.ipynb)
-* [Q11_Container With Most Water]((/Problems/MostWater-11.ipynb))
+* [Q3_Longest Substring Without Repeating Characters](/Problems/SubstringNoRepeat-3.ipynb) Sliding window
+* [Q11_Container With Most Water]((/Problems/MostWater-11.ipynb)) Double Pointer
