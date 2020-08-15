@@ -18,3 +18,4 @@
 * [Q3_Longest Substring Without Repeating Characters](/Problems/SubstringNoRepeat-3.ipynb) Sliding window
 * [Q11_Container With Most Water](/Problems/MostWater-11.ipynb) Double pointer
 * [Q15_3Sum](/Problems/3Sum-15.ipynb) Sliding window, Two sum
+* [Q16_3Sum Closest](/Problems/3SumClosest-16.ipynb) Sliding window
