@@ -20,7 +20,7 @@
 * [Q15_3Sum](/Problems/3Sum-15.ipynb) Sliding window, Two sum
 * [Q16_3Sum Closest](/Problems/3SumClosest-16.ipynb) Sliding window
 * [Q26_Remove Duplicates from Sorted Array](/Problems/RemoveDup-26.ipynb) Sliding window
-* [Q42_Trapping Rain Water](/Problems/TrapRain-42.ipynb) Sliding window
+* [Q42_Trapping Rain Water](/Problems/TrapRain-42.ipynb) Dynamic programming, Simplification by two pointers, Stack
 
 
 
