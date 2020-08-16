@@ -21,6 +21,7 @@
 * [Q16_3Sum Closest](/Problems/3SumClosest-16.ipynb) Sliding window
 * [Q26_Remove Duplicates from Sorted Array](/Problems/RemoveDup-26.ipynb) Sliding window
 * [Q42_Trapping Rain Water](/Problems/TrapRain-42.ipynb) Dynamic programming, Simplification by two pointers, Stack
-
+* [121_Best Time to Buy and Sell Stock](/Problems/Stock-121.ipynb) 
+* [209_Minimum Size Subarray Sum](/Problems/MinSubarraySum-209.ipynb)
 
 
