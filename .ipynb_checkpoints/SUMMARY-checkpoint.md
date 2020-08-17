@@ -26,5 +26,6 @@
 
 ### Pointers
 * [141_Linked List Cycle](/Problems/LinkedListCycle-141.ipynb) Fast and slow pointers
+* [202_Happy Number](/Problems/HappyNum-202.ipynb)
 
 
