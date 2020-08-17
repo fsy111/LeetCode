@@ -25,6 +25,6 @@
 * [209_Minimum Size Subarray Sum](/Problems/MinSubarraySum-209.ipynb) Sliding window
 
 ### Pointers
-* [141_Linked List Cycle](/Problems/LinkedListCycle-141.ipynb)
+* [141_Linked List Cycle](/Problems/LinkedListCycle-141.ipynb) Fast and slow pointers
 
 
