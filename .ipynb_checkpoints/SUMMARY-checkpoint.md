@@ -24,8 +24,9 @@
 * [121_Best Time to Buy and Sell Stock](/Problems/Stock-121.ipynb) 
 * [209_Minimum Size Subarray Sum](/Problems/MinSubarraySum-209.ipynb) Sliding window
 
-### Pointers
+### Fast and Slow Pointers
 * [141_Linked List Cycle](/Problems/LinkedListCycle-141.ipynb) Fast and slow pointers
 * [202_Happy Number](/Problems/HappyNum-202.ipynb)
+* [876_Middle of the Linked List](/Problems/MiddleNode-876.ipynb)
 
 
