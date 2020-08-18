@@ -35,3 +35,6 @@
 * [Q14_Longest Common Prefix](/Problems/LongCommonPrefix-14.ipynb)
 * [Q763_Partition Labels](/Problems/PartitionLabel-763.ipynb)
 
+### Number
+* [Q7_Reverse Integer](/Problems/ReverseInteger-7.ipynb)
+* [Q8_String to Integer](/Problems/StringtoInteger-8.ipynb)
