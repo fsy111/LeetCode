@@ -28,5 +28,5 @@
 * [141_Linked List Cycle](/Problems/LinkedListCycle-141.ipynb) Fast and slow pointers
 * [202_Happy Number](/Problems/HappyNum-202.ipynb)
 * [876_Middle of the Linked List](/Problems/MiddleNode-876.ipynb)
-
+* [56_Merge Intervals](/Problems/MergeInt-56.ipynb)
 
