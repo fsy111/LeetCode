@@ -21,12 +21,12 @@
 * [Q16_3Sum Closest](/Problems/3SumClosest-16.ipynb) Sliding window
 * [Q26_Remove Duplicates from Sorted Array](/Problems/RemoveDup-26.ipynb) Sliding window
 * [Q42_Trapping Rain Water](/Problems/TrapRain-42.ipynb) Dynamic programming, Simplification by two pointers, Stack
-* [121_Best Time to Buy and Sell Stock](/Problems/Stock-121.ipynb) 
-* [209_Minimum Size Subarray Sum](/Problems/MinSubarraySum-209.ipynb) Sliding window
+* [Q121_Best Time to Buy and Sell Stock](/Problems/Stock-121.ipynb) 
+* [Q209_Minimum Size Subarray Sum](/Problems/MinSubarraySum-209.ipynb) Sliding window
 
 ### Fast and Slow Pointers
-* [141_Linked List Cycle](/Problems/LinkedListCycle-141.ipynb) Fast and slow pointers
-* [202_Happy Number](/Problems/HappyNum-202.ipynb)
-* [876_Middle of the Linked List](/Problems/MiddleNode-876.ipynb)
-* [56_Merge Intervals](/Problems/MergeInt-56.ipynb)
-
+* [Q141_Linked List Cycle](/Problems/LinkedListCycle-141.ipynb) Fast and slow pointers
+* [Q202_Happy Number](/Problems/HappyNum-202.ipynb)
+* [Q876_Middle of the Linked List](/Problems/MiddleNode-876.ipynb)
+* [Q56_Merge Intervals](/Problems/MergeInt-56.ipynb)
+* [Q6_ZigZag Conversion](/Problems/ZigzagConvension-6.ipynb)
