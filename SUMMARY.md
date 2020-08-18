@@ -29,4 +29,6 @@
 * [Q202_Happy Number](/Problems/HappyNum-202.ipynb)
 * [Q876_Middle of the Linked List](/Problems/MiddleNode-876.ipynb)
 * [Q56_Merge Intervals](/Problems/MergeInt-56.ipynb)
+
+### String
 * [Q6_ZigZag Conversion](/Problems/ZigzagConvension-6.ipynb)
