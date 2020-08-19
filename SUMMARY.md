@@ -38,3 +38,4 @@
 ### Number
 * [Q7_Reverse Integer](/Problems/ReverseInteger-7.ipynb)
 * [Q8_String to Integer](/Problems/StringtoInteger-8.ipynb)
+* [Q43_Multiply Strings](/Problems/MultiplyString-43.ipynb)
