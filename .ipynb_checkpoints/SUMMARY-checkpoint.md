@@ -40,3 +40,10 @@
 * [Q8_String to Integer](/Problems/StringtoInteger-8.ipynb)
 * [Q43_Multiply Strings](/Problems/MultiplyString-43.ipynb)
 * [Q258_Add Digits](/Problems/AddDigit-258.ipynb)
+
+### Array
+* [Q54_Spiral Matrix](/Problems/SpiralMatrix-54.ipynb)
+* [Q73_Set Matrix Zeroes](/Problems/SetMatrixZeroes-73.ipynb)
+
+
+
