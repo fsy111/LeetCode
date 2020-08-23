@@ -44,6 +44,6 @@
 ### Array
 * [Q54_Spiral Matrix](/Problems/SpiralMatrix-54.ipynb)
 * [Q73_Set Matrix Zeroes](/Problems/SetMatrixZeroes-73.ipynb)
-
-
+* [Q384_Shuffle an Array](/Problems/ShuffleArray-384.ipynb)
+* [Q581_Shortest Unsorted Continuous Subarray](/Problems/ShortAscend-581.ipynb)
 
