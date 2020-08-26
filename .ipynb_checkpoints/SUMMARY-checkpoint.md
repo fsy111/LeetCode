@@ -47,3 +47,7 @@
 * [Q384_Shuffle an Array](/Problems/ShuffleArray-384.ipynb)
 * [Q581_Shortest Unsorted Continuous Subarray](/Problems/ShortAscend-581.ipynb) Stack
 * [Q945_Minimum Increment to Make Array Unique](/Problems/MinIncrementUnique-945.ipynb) 
+
+### Stack
+* [Q20_Valid Parentheses](/Problems/ValidParenthesis-20.ipynb)
+* [Q32_Longest Valid Parentheses](/Problems/LongestParen-32.ipynb)
