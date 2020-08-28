@@ -50,4 +50,10 @@
 
 ### Stack
 * [Q20_Valid Parentheses](/Problems/ValidParenthesis-20.ipynb)
-* [Q32_Longest Valid Parentheses](/Problems/LongestParen-32.ipynb)
+* [Q32_Longest Valid Parentheses](/Problems/LongestParen-32.ipynb) Dynamic programming, Stack
+* [Q224_Calculate](/Problems/Calculate-224.ipynb)
+* [Q232_Implememnt Queue using Stacks](/Problems/QueueStack-232.ipynb)
+* [Q316_Remove Duplicate Letters](/Problems/RemoveDupLetter-316.ipynb)
+
+### Heap
+
