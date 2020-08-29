@@ -56,5 +56,5 @@
 * [Q316_Remove Duplicate Letters](/Problems/RemoveDupLetter-316.ipynb)
 
 ### Heap
-* [Q215_Kth Largest Element in an Array](/Problems/KthLargest-215.ipynb) Quickselect, Heap (with `heapq` and another)
+* [Q215_Kth Largest Element in an Array](/Problems/KthLargest-215.ipynb) Quickselect, Heap (with `heapq` and my version)
 * [Q347_Top K Frequent Elements]
