@@ -58,3 +58,6 @@
 ### Heap
 * [Q215_Kth Largest Element in an Array](/Problems/KthLargest-215.ipynb) Quickselect, Heap (with `heapq` and my version)
 * [Q347_Top K Frequent Elements] Quickselect, Heap
+
+### Recursion and Iteration
+* [Q101_Symmetric Tree](/Problems/SymmetricTree-101.ipynb)
