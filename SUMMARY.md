@@ -63,3 +63,10 @@
 * [Q101_Symmetric Tree](/Problems/SymmetricTree-101.ipynb)
 * [Q104_Maximum Depth of Binary Tree](/Problems/MaxDepth-104.ipynb) Recursion, backtracking
 * [Q236_Lowest Common Ancestor of a Binary Tree](/Problems/LCABinTree-236.ipynb)
+
+###
+* [Q23_Merge k Sorted Lists](/Problems/MergeSortedLists-23.ipynb) Priority queue, Min heap, Divide and conquer
+* [Q33_Search in Rotated Sorted Array](/Problems/SearchRotatedSortArray-33.ipynb) Binary search, try-except
+* [Q34_Find First and Last Position of Element in Sorted Array](/Problems/FirstLastElement-34.ipynb)
+
+
