@@ -70,6 +70,6 @@
 * [Q34_Find First and Last Position of Element in Sorted Array](/Problems/FirstLastElement-34.ipynb)
 
 ###
-* [10_Regular Expression Matching](/Problems/RegularExprMatch-10.ipynb) Dynamic programming
+* [Q10_Regular Expression Matching](/Problems/RegularExprMatch-10.ipynb) Dynamic programming
 
 
