@@ -71,5 +71,7 @@
 
 ###
 * [Q10_Regular Expression Matching](/Problems/RegularExprMatch-10.ipynb) Dynamic programming
+* [Q22_Generate Parentheses](/Problems/GenParentheses-22.ipynb)
+* [Q40_Combination Sum II](/Problems/CombSum2-40.ipynb)
 
 
