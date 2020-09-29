@@ -70,7 +70,7 @@
 * [Q34_Find First and Last Position of Element in Sorted Array](/Problems/FirstLastElement-34.ipynb)
 
 ###
-* [Q10_Regular Expression Matching](/Problems/RegularExprMatch-10.ipynb) Dynamic programming
+* [Q10_Regular Expression Matching](/Problems/RegularExprMatch-10.ipynb) Dynamic programming. Analysis of complexity, see [LeetCode solution](https://leetcode.com/problems/regular-expression-matching/solution/) 
 * [Q22_Generate Parentheses](/Problems/GenParentheses-22.ipynb)
 * [Q40_Combination Sum II](/Problems/CombSum2-40.ipynb)
 
@@ -83,3 +83,9 @@
 
 ### Binary Search Tree
 * [Q98_Validate Binary Search Tree](/Problem/ValidateBinarySearchTree-98.ipynb)
+* [Q450_Delete Node in a BST](/Problem/DeleteBST-450.ipynb)
+* [Q701_Insert into a Binary Search Tree](/Problem/InsertBST-701.ipynb)
+
+### Dynamic Programming
+* [Q5_Longest Palindromic Substring](/Problem/LongestPalindromicSubstring-5.ipynb) Manacher algorithm
+
