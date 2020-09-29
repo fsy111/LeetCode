@@ -69,8 +69,8 @@
 * [Q33_Search in Rotated Sorted Array](/Problems/SearchRotatedSortArray-33.ipynb) Binary search, try-except
 * [Q34_Find First and Last Position of Element in Sorted Array](/Problems/FirstLastElement-34.ipynb)
 
-###
-* [Q10_Regular Expression Matching](/Problems/RegularExprMatch-10.ipynb) Dynamic programming. Analysis of complexity, see [LeetCode solution](https://leetcode.com/problems/regular-expression-matching/solution/) 
+### Backtracking
+* [Q10_Regular Expression Matching](/Problems/RegularExprMatch-10.ipynb) Dynamic programming.
 * [Q22_Generate Parentheses](/Problems/GenParentheses-22.ipynb)
 * [Q40_Combination Sum II](/Problems/CombSum2-40.ipynb)
 
