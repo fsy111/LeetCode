@@ -88,4 +88,6 @@
 
 ### Dynamic Programming
 * [Q5_Longest Palindromic Substring](/Problem/LongestPalindromicSubstring-5.ipynb) Manacher algorithm
-
+* [Q53_Maximum Subarray](/Problem/MaxSubarray-53.ipynb) Kadane's algorithm
+* [Q300_Longest Increasing Subsequence](/Problem/LongestIncSubseq-300.ipynb) Longest Increasing Subsequence, Longest Common Subsequence, Binary search
+* [Q1143_Longest Common Subsequence](/Problem/LongestCommonSubseq-1143.ipynb) 
