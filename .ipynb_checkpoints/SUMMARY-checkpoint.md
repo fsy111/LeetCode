@@ -1,0 +1,93 @@
+# LeetCode Problems
+
+
+### Hash
+
+* [Q1_Two Sum](/Problems/TwoSum/)
+* [Q387_First Unique Character in a String](/Problems/UniCh-387.ipynb)
+
+### Linked List
+
+* [Q2_Add Two Numbers](/Problems/AddTwoNum/)
+* [Q19_Remove Nth Node From End of List](/Problems/n-th_NodeFromEnd-19.ipynb)
+* [Q25_Reverse Nodes in k-Group](/Problems/RevNodes-k-Group-25.ipynb) Reverse linked list
+* [Q61_Rotate List](/Problems/RotateList-61.ipynb)
+* [Q138_Copy List with Random Pointer](/Problems/CopyListRandom-138.ipynb) Linked list, Deep copy, Copy extra information of nodes
+
+### Double Pointer & Sliding Window
+* [Q3_Longest Substring Without Repeating Characters](/Problems/SubstringNoRepeat-3.ipynb) Sliding window
+* [Q11_Container With Most Water](/Problems/MostWater-11.ipynb) Double pointer
+* [Q15_3Sum](/Problems/3Sum-15.ipynb) Sliding window, Two sum
+* [Q16_3Sum Closest](/Problems/3SumClosest-16.ipynb) Sliding window
+* [Q26_Remove Duplicates from Sorted Array](/Problems/RemoveDup-26.ipynb) Sliding window
+* [Q42_Trapping Rain Water](/Problems/TrapRain-42.ipynb) Dynamic programming, Simplification by two pointers, Stack
+* [Q121_Best Time to Buy and Sell Stock](/Problems/Stock-121.ipynb) 
+* [Q209_Minimum Size Subarray Sum](/Problems/MinSubarraySum-209.ipynb) Sliding window
+
+### Fast and Slow Pointers
+* [Q141_Linked List Cycle](/Problems/LinkedListCycle-141.ipynb) Fast and slow pointers
+* [Q202_Happy Number](/Problems/HappyNum-202.ipynb)
+* [Q876_Middle of the Linked List](/Problems/MiddleNode-876.ipynb)
+* [Q56_Merge Intervals](/Problems/MergeInt-56.ipynb)
+
+### String
+* [Q6_ZigZag Conversion](/Problems/ZigzagConvension-6.ipynb)
+* [Q14_Longest Common Prefix](/Problems/LongCommonPrefix-14.ipynb)
+* [Q763_Partition Labels](/Problems/PartitionLabel-763.ipynb)
+
+### Number
+* [Q7_Reverse Integer](/Problems/ReverseInteger-7.ipynb)
+* [Q8_String to Integer](/Problems/StringtoInteger-8.ipynb)
+* [Q43_Multiply Strings](/Problems/MultiplyString-43.ipynb)
+* [Q258_Add Digits](/Problems/AddDigit-258.ipynb)
+
+### Array
+* [Q54_Spiral Matrix](/Problems/SpiralMatrix-54.ipynb)
+* [Q73_Set Matrix Zeroes](/Problems/SetMatrixZeroes-73.ipynb)
+* [Q384_Shuffle an Array](/Problems/ShuffleArray-384.ipynb)
+* [Q581_Shortest Unsorted Continuous Subarray](/Problems/ShortAscend-581.ipynb) Stack
+* [Q945_Minimum Increment to Make Array Unique](/Problems/MinIncrementUnique-945.ipynb) 
+
+### Stack
+* [Q20_Valid Parentheses](/Problems/ValidParenthesis-20.ipynb)
+* [Q32_Longest Valid Parentheses](/Problems/LongestParen-32.ipynb) Dynamic programming, Stack
+* [Q224_Calculate](/Problems/Calculate-224.ipynb)
+* [Q232_Implememnt Queue using Stacks](/Problems/QueueStack-232.ipynb)
+* [Q316_Remove Duplicate Letters](/Problems/RemoveDupLetter-316.ipynb)
+
+### Heap
+* [Q215_Kth Largest Element in an Array](/Problems/KthLargest-215.ipynb) Quickselect, Heap (with `heapq` and my version)
+* Q347_Top K Frequent Elements: Quickselect, Heap
+
+### Recursion and Iteration
+* [Q101_Symmetric Tree](/Problems/SymmetricTree-101.ipynb)
+* [Q104_Maximum Depth of Binary Tree](/Problems/MaxDepth-104.ipynb) Recursion, backtracking
+* [Q236_Lowest Common Ancestor of a Binary Tree](/Problems/LCABinTree-236.ipynb)
+
+### Binary Search
+* [Q23_Merge k Sorted Lists](/Problems/MergeSortedLists-23.ipynb) Priority queue, Min heap, Divide and conquer
+* [Q33_Search in Rotated Sorted Array](/Problems/SearchRotatedSortArray-33.ipynb) Binary search, try-except
+* [Q34_Find First and Last Position of Element in Sorted Array](/Problems/FirstLastElement-34.ipynb)
+
+### Backtracking
+* [Q10_Regular Expression Matching](/Problems/RegularExprMatch-10.ipynb) Dynamic programming.
+* [Q22_Generate Parentheses](/Problems/GenParentheses-22.ipynb)
+* [Q40_Combination Sum II](/Problems/CombSum2-40.ipynb)
+
+
+### Traversal of Trees
+* [Q94_Binary Tree Inorder Traversal](/Problem/BinaryTreeInorder-94.ipynb) Binary tree in-order traverse, Thread binary tree, Morris traverse
+* [Q102_Binary Tree Level Order Traversal](/Problem/BinaryTreeLevelTraverse-102.ipynb) bfs
+* [Q144_Binary Tree Preorder Traversal](/Problem/BinaryTreePreorder-144.ipynb) 
+* [Q145_Binary Tree Postorder Traversal](/Problem/BinaryTreePostorder-145.ipynb) Recursive generator 
+
+### Binary Search Tree
+* [Q98_Validate Binary Search Tree](/Problem/ValidateBinarySearchTree-98.ipynb)
+* [Q450_Delete Node in a BST](/Problem/DeleteBST-450.ipynb)
+* [Q701_Insert into a Binary Search Tree](/Problem/InsertBST-701.ipynb)
+
+### Dynamic Programming
+* [Q5_Longest Palindromic Substring](/Problem/LongestPalindromicSubstring-5.ipynb) Manacher algorithm
+* [Q53_Maximum Subarray](/Problem/MaxSubarray-53.ipynb) Kadane's algorithm
+* [Q300_Longest Increasing Subsequence](/Problem/LongestIncSubseq-300.ipynb) Longest Increasing Subsequence, Longest Common Subsequence, Binary search
+* [Q1143_Longest Common Subsequence](/Problem/LongestCommonSubseq-1143.ipynb) 
