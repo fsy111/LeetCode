@@ -14,7 +14,7 @@
 
 ## 1. Linear DP
    - [The Longest Increasing Subsequence (LIS) Q-300](https://leetcode.com/problems/longest-increasing-subsequence) [\[Solution\]](/Problems/LongestIncSubseq-300.ipynb)
-   - [The Longest Common Subsequence (LCS) Q-1143] (https://leetcode.com/problems/longest-common-subsequence)    [\[Solution\]](/Problems/LongestCommonSubseq-1143.ipynb) 
+   - [The Longest Common Subsequence (LCS) Q-1143](https://leetcode.com/problems/longest-common-subsequence)    [\[Solution\]](/Problems/LongestCommonSubseq-1143.ipynb) 
    - [Triangle Q-120](https://leetcode.com/problems/triangle)      [\[Solution\]](/Problems/Triangle-120.ipynb)
    - [Maximum subarray Q-53](https://leetcode.com/problems/maximum-subarray)     Kadane's algorithm    [\[Solution\]](/Problems/MaxSubarray-53.ipynb)
    - [Maximum Product Subarray Q-152](https://leetcode.com/problems/maximum-product-subarray) 
