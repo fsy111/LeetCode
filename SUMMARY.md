@@ -76,18 +76,18 @@
 
 
 ### Traversal of Trees
-* [Q94_Binary Tree Inorder Traversal](/Problem/BinaryTreeInorder-94.ipynb) Binary tree in-order traverse, Thread binary tree, Morris traverse
-* [Q102_Binary Tree Level Order Traversal](/Problem/BinaryTreeLevelTraverse-102.ipynb) bfs
-* [Q144_Binary Tree Preorder Traversal](/Problem/BinaryTreePreorder-144.ipynb) 
-* [Q145_Binary Tree Postorder Traversal](/Problem/BinaryTreePostorder-145.ipynb) Recursive generator 
+* [Q94_Binary Tree Inorder Traversal](/Problems/BinaryTreeInorder-94.ipynb) Binary tree in-order traverse, Thread binary tree, Morris traverse
+* [Q102_Binary Tree Level Order Traversal](/Problems/BinaryTreeLevelTraverse-102.ipynb) bfs
+* [Q144_Binary Tree Preorder Traversal](/Problems/BinaryTreePreorder-144.ipynb) 
+* [Q145_Binary Tree Postorder Traversal](/Problems/BinaryTreePostorder-145.ipynb) Recursive generator 
 
 ### Binary Search Tree
-* [Q98_Validate Binary Search Tree](/Problem/ValidateBinarySearchTree-98.ipynb)
-* [Q450_Delete Node in a BST](/Problem/DeleteBST-450.ipynb)
-* [Q701_Insert into a Binary Search Tree](/Problem/InsertBST-701.ipynb)
+* [Q98_Validate Binary Search Tree](/Problems/ValidateBinarySearchTree-98.ipynb)
+* [Q450_Delete Node in a BST](/Problems/DeleteBST-450.ipynb)
+* [Q701_Insert into a Binary Search Tree](/Problems/InsertBST-701.ipynb)
 
 ### Dynamic Programming
-* [Q5_Longest Palindromic Substring](/Problem/LongestPalindromicSubstring-5.ipynb) Manacher algorithm
-* [Q53_Maximum Subarray](/Problem/MaxSubarray-53.ipynb) Kadane's algorithm
-* [Q300_Longest Increasing Subsequence](/Problem/LongestIncSubseq-300.ipynb) Longest Increasing Subsequence, Longest Common Subsequence, Binary search
-* [Q1143_Longest Common Subsequence](/Problem/LongestCommonSubseq-1143.ipynb) 
+* [Q5_Longest Palindromic Substring](/Problems/LongestPalindromicSubstring-5.ipynb) Manacher algorithm
+* [Q53_Maximum Subarray](/Problems/MaxSubarray-53.ipynb) Kadane's algorithm
+* [Q300_Longest Increasing Subsequence](/Problems/LongestIncSubseq-300.ipynb) Longest Increasing Subsequence, Longest Common Subsequence, Binary search
+* [Q1143_Longest Common Subsequence](/Problems/LongestCommonSubseq-1143.ipynb) 
