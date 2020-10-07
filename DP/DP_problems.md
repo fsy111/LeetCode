@@ -1,6 +1,6 @@
 # DP Problems
 
-1. [Linear DP](#1-linear-dp)
+1. [Linear DP](#1-linear-dp) [Solution](/Problems/Triangle-120.ipynb)
 2. [Intervals](#2-intervals)
 3. [Backpack (Decision Making)](#3-backpack)
 4. [Trees](#4-trees)
