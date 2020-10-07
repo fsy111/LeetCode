@@ -13,10 +13,10 @@
 11. [Search](#11-search)
 
 ## 1. Linear DP
-   - [The Longest Increasing Subsequence (LIS) Q-300](https://leetcode.com/problems/longest-increasing-subsequence)
-   - [The Longest Common Subsequence (LCS) Q-1143](https://leetcode.com/problems/longest-common-subsequence)
+   - [The Longest Increasing Subsequence (LIS) Q-300](https://leetcode.com/problems/longest-increasing-subsequence) [\[Solution\]](/Problems/LongestIncSubseq-300.ipynb)
+   - [The Longest Common Subsequence (LCS) Q-1143] (/Problems/LongestCommonSubseq-1143.ipynb) [\[Solution\]](https://leetcode.com/problems/longest-common-subsequence)
    - [Triangle Q-120](https://leetcode.com/problems/triangle)      [\[Solution\]](/Problems/Triangle-120.ipynb)
-   - [Maximum subarray Q-53](https://leetcode.com/problems/maximum-subarray)    [\[Solution\]]
+   - [Maximum subarray Q-53](https://leetcode.com/problems/maximum-subarray)     Kadane's algorithm    [\[Solution\]](/Problems/MaxSubarray-53.ipynb)
    - [Maximum Product Subarray Q-152](https://leetcode.com/problems/maximum-product-subarray) 
    - [Super Egg Drop Q-887](https://leetcode.com/problems/super-egg-drop)
    - [Russian Doll Envelopes Q-354](https://leetcode.com/problems/russian-doll-envelopes)
