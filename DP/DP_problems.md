@@ -1,6 +1,6 @@
 # DP Problems
 
-1. [Linear DP](#1-linear-dp)    [Solution](/Problems/Triangle-120.ipynb)
+1. [Linear DP](#1-linear-dp)
 2. [Intervals](#2-intervals)
 3. [Backpack (Decision Making)](#3-backpack)
 4. [Trees](#4-trees)
@@ -15,7 +15,7 @@
 ## 1. Linear DP
    - [The Longest Increasing Subsequence (LIS) Q-300](https://leetcode.com/problems/longest-increasing-subsequence)
    - [The Longest Common Subsequence (LCS) Q-1143](https://leetcode.com/problems/longest-common-subsequence)
-   - [Triangle Q-120](https://leetcode.com/problems/triangle)
+   - [Triangle Q-120](https://leetcode.com/problems/triangle)      [Solution](/Problems/Triangle-120.ipynb)
    - [Maximum subarray Q-53](https://leetcode.com/problems/maximum-subarray)
    - [Maximum Product Subarray Q-152](https://leetcode.com/problems/maximum-product-subarray)
    - [Super Egg Drop Q-887](https://leetcode.com/problems/super-egg-drop)
