@@ -19,7 +19,7 @@
    - [Maximum subarray Q-53](https://leetcode.com/problems/maximum-subarray)     Kadane's algorithm    [\[Solution\]](/Problems/MaxSubarray-53.ipynb)
    - [Maximum Product Subarray Q-152](https://leetcode.com/problems/maximum-product-subarray)     [\[Solution\]](/Problems/MaxProdSubarray-152.ipynb)
    - [Super Egg Drop Q-887](https://leetcode.com/problems/super-egg-drop)    [\[Solution\]](/Problems/SuperEggDrop-887.ipynb)
-   - [Russian Doll Envelopes Q-354](https://leetcode.com/problems/russian-doll-envelopes)
+   - [Russian Doll Envelopes Q-354](https://leetcode.com/problems/russian-doll-envelopes)    [\[Solution\]](/Problems/RussianDollEnve-354.ipynb)
    - [House Robber Q-198](https://leetcode.com/problems/house-robber)
    - [House Robber II Q-213](https://leetcode.com/problems/house-robber-ii)
    - [Best Time to Buy and Sell Stock Q-121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
