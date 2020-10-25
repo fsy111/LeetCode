@@ -19,10 +19,10 @@
    - [Maximum subarray Q-53](https://leetcode.com/problems/maximum-subarray)     Kadane's algorithm    [\[Solution\]](/Problems/MaxSubarray-53.ipynb)
    - [Maximum Product Subarray Q-152](https://leetcode.com/problems/maximum-product-subarray)     [\[Solution\]](/Problems/MaxProdSubarray-152.ipynb)
    - [Super Egg Drop Q-887](https://leetcode.com/problems/super-egg-drop)    [\[Solution\]](/Problems/SuperEggDrop-887.ipynb)
-   - [Russian Doll Envelopes Q-354](https://leetcode.com/problems/russian-doll-envelopes)    [\[Solution\]](/Problems/RussianDollEnve-354.ipynb)
-   - [House Robber Q-198](https://leetcode.com/problems/house-robber)
-   - [House Robber II Q-213](https://leetcode.com/problems/house-robber-ii)
-   - [Best Time to Buy and Sell Stock Q-121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+   - [Russian Doll Envelopes Q-354](https://leetcode.com/problems/russian-doll-envelopes)    Sort list, Double sort list, bisect library    [\[Solution\]](/Problems/RussianDollEnve-354.ipynb)
+   - [House Robber Q-198](https://leetcode.com/problems/house-robber)    EASY
+   - [House Robber II Q-213](https://leetcode.com/problems/house-robber-ii)    [\[Solution\]](/Problems/HouseRobberII-213.ipynb)
+   - [Best Time to Buy and Sell Stock Q-121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)    Use Maximum subarray Q-53.
    - [Best Time to Buy and Sell Stock II Q-122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
    - [Best Time to Buy and Sell Stock III Q-123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)
    - [Best Time to Buy and Sell Stock IV Q-188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
